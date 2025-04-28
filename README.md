@@ -106,7 +106,7 @@ To run the Web-based Billing Software project, follow these steps:
 - **Composer**: For managing PHP dependencies.
 
 ## Project Debrief
-**Web-based Billing Software ** is a comprehensive solution for businesses looking to streamline their billing and invoicing processes. The application is developed with modern web development standards and offers a wide range of features commonly found in billing software.
+**Web-based Billing Software** is a comprehensive solution for businesses looking to streamline their billing and invoicing processes. The application is developed with modern web development standards and offers a wide range of features commonly found in billing software.
 
 ### Features:
 - **User-friendly Interface**: Easy-to-use interface for business owners.

@@ -138,9 +138,9 @@
   <div class="row text-white">
     
 </div>
-<!-- <div class="footer">
-    <p>&copy; copyright SWE Group 3</p>
-</div>   -->
+<div class="footer">
+    <p>&copy; copyright Shashi Kiran</p>
+</div>  
 
 
 

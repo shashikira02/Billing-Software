@@ -114,7 +114,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
     
 </div>
 <div class="footer">
-    <p>&copy; Copyright Bill Book</p>
+    <p>&copy; Copyright Shashi Kiran</p>
 </div>  
 
 

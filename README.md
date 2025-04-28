@@ -1,8 +1,8 @@
 # Web-based Billing Software
 
-This Web-based Billing Software (WBS) tool allows organizations to set up online bill management, consumers to read bills, and owners to save or download invoices for new businesses. In addition, the developer is creating an online billing webpage to handle invoices in the system and to assist clients in creating, updating, and calculating bills/invoices without having to manually list them.
+This Web-based Billing Software (WBS) tool allows organizations to set up online bill management, consumers to read bills, and owners to save or download invoices for new businesses. In addition, an online billing webpage to handle invoices in the system and to assist clients in creating, updating, and calculating bills/invoices without having to manually list them.
 
-This software system will rely only on the internet to provide a user-friendly environment for both owners and customers. This solution is designed for Businessmen, Enterprises, Shopkeepers, Vendors, and Government Officers who don't want to spend time manually maintaining bills/invoices or computing whole bill computations.
+This software system will rely only on the internet to provide a user-friendly environment for  owners. This solution is designed for Businessmen, Enterprises, Shopkeepers, Vendors, and Government Officers who don't want to spend time manually maintaining bills/invoices or computing whole bill computations.
 
 ### Features
 

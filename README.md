@@ -78,15 +78,13 @@ Follow the instructions below to have a copy of this project up and running on y
 
 1. Clone the repository to your local machine:
    ```bash
-   https://github.com/shashikira02/Billing-Software.git
+   git clone https://github.com/shashikira02/Billing-Software.git
 2. Navigate to the project directory:
    ```bash
    cd Billing-Software
 3. Install dependencies using Composer:
    ```bash
    composer install
-
-
 ### Running the Project
 
 To run the Web-based Billing Software project, follow these steps:
